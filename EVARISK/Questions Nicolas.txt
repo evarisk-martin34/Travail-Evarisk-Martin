@@ -1,0 +1,112 @@
+# Questions jeu nicolas
+
+1. Quelle est la concentration minimale de diisocyanates nécessitant une formation avant utilisation industrielle ou professionnelle ?
+- a) 0,1 % en poids
+- b) 0,5 % en poids
+- c) 1 % en poids
+- d) 5 % en poids
+2. À quelle fréquence la formation sur les diisocyanates doit-elle être renouvelée ?
+- a) Tous les ans
+- b) Tous les 2 ans
+- c) Tous les 3 ans
+- d) Tous les 5 ans
+3. Quelle est la recommandation concernant les vêtements de travail contaminés ?
+- a) Les emporter à la maison
+- b) Les laver régulièrement
+- c) Les jeter immédiatement
+- d) Les stocker dans un endroit sûr
+4. Quel est le test recommandé pour détecter une déficience des fonctions pulmonaires ?
+- a) Test sanguin
+- b) Test urinaire
+- c) Test respiratoire à l'embauche
+- d) Test de vision
+5. À quelle fréquence doit-on effectuer une visite médicale pour détecter l'apparition de troubles respiratoires ?
+- a) Tous les ans
+- b) Tous les 2 ans
+- c) Tous les 3 ans
+- d) Tous les 5 ans
+6. Combien de pictogrammes du CLP sont mentionnés dans le document ?
+- a) 6
+- b) 7
+- c) 8
+- d) 9
+7. Quelle est la recommandation pour travailler en toute sécurité dans des lieux de travail mal ventilés ?
+- a) Utiliser des EPI
+- b) Suivre les instructions de sécurité
+- c) Fermer correctement les fûts de diisocyanates
+- d) Éviter de travailler dans ces lieux
+8. Quel pourcentage des accidents peut être évité grâce à un comportement sûr ?
+- a) Plus de 50 %
+- b) Plus de 60 %
+- c) Plus de 70 %
+- d) Plus de 80 %
+9. Quelle est la recommandation concernant les filtres utilisés avec les diisocyanates ?
+- a) Les laisser traîner
+- b) Les changer régulièrement
+- c) Les nettoyer avec de l'eau
+- d) Les stocker dans un endroit sec
+10. Quelle est la taille recommandée pour l'étiquette des matières dangereuses ?
+- a) 5 cm par 5 cm
+- b) 10 cm par 10 cm
+- c) 15 cm par 15 cm
+- d) 20 cm par 20 cm
+11. Quel est l'élément de l'étiquette qui doit être imprimé de façon indélébile ?
+- a) Le numéro UN de la matière dangereuse
+- b) Le numéro UFI
+- c) Le code couleur des filtres
+- d) Le pictogramme de danger
+12. Quel est le nombre de types de vêtements de protection contre les risques chimiques ?
+- a) 3
+- b) 4
+- c) 5
+- d) 6
+13. Quelle est la forme sous laquelle les isocyanates peuvent être présents ?
+- a) Liquide
+- b) Solide
+- c) Gazeuse
+- d) Particulaire
+14. Quelle est la protection la plus forte offerte par les vêtements de protection ?
+- a) Type 1
+- b) Type 2
+- c) Type 3
+- d) Type 4
+15. Quelle est la recommandation concernant les vêtements de travail à manches longues ?
+- a) Les porter en tout temps
+- b) Les laver régulièrement
+- c) Les retirer avec précaution
+- d) Les stocker dans un endroit sec
+16. Quelle est la recommandation concernant les cartouches et les masques de protection ?
+- a) Les laisser traîner
+- b) Les jeter immédiatement après utilisation
+- c) Les nettoyer avec de l'eau
+- d) Les stocker dans un endroit sec
+17. Quel est l'acronyme utilisé pour le numéro UFI ?
+- a) UFI
+- b) UN
+- c) CLP
+- d) EPI
+18. Quel est le moyen de contact recommandé en cas d'urgence avec une matière dangereuse ?
+- a) Appeler le centre anti-poison
+- b) Envoyer un e-mail
+- c) Envoyer un fax
+- d) Envoyer un courrier postal
+19. Quelle est la recommandation concernant l'étiquette des matières dangereuses ?
+- a) La retirer avant utilisation
+- b) La garder en permanence sur le contenant
+- c) La stocker dans un endroit sec
+- d) La jeter immédiatement après utilisation
+20. Quel est le niveau de protection recommandé pour travailler avec des diisocyanates ?
+- a) Le plus bas possible
+- b) Le plus élevé possible
+- c) Moyen
+- d) Aucun niveau de protection n'est nécessaire
+21. Quelle est la recommandation concernant les fûts de diisocyanates ?
+- a) Les laisser ouverts
+- b) Les fermer correctement
+- c) Les stocker à l'envers
+- d) Les stocker à l'extérieur
+22. Quelle est la recommandation concernant l'utilisation d'EPI lors de l'utilisation de diisocyanates ?
+- a) Pas besoin d'EPI
+- b) Utiliser uniquement des gants
+- c) Utiliser des gants et des lunettes de protection
+- d) Utiliser une combinaison de protection complète

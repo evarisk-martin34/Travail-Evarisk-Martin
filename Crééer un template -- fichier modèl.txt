@@ -1,0 +1,2 @@
+Crééer un template --> fichier> modèle> gérer les modèles --> faire le fond ( images, etc 
+Trouver comment faire des diapos maîtresses --> gérer le contenu répétitif ( format/ layout )
